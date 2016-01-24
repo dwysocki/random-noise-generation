@@ -51,7 +51,7 @@ time.series <- function(power.spectrum) {
 
 
 plot.spectrum <- function(power.spectrum, time.series) {
-    pdf("power_law_noise.pdf")
+    pdf("power_spectrum_noise.pdf")
 
     par(mfrow = c(1, 2))
 
