@@ -1,6 +1,6 @@
 # Random Noise Generation
 
-A collection of scripts for experimenting with random noise generation.
+An R package for generating random noise.
 
 
 # Author

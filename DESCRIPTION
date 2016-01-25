@@ -1,0 +1,10 @@
+Package: random.noise.generation
+Type: Package
+Title: Random Noise Generation
+Version: 0.1
+Date: 2016-01-24
+Author: Daniel Wysocki
+Maintainer: Daniel Wysocki <dw2081@rit.edu>
+Description: Generates random noise.
+License: MIT
+RoxygenNote: 5.0.1
